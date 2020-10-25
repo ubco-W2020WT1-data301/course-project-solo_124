@@ -1,0 +1,2 @@
+## Description on the processed data table 
+{ This processed data table only focus on the applicaions that belongs to the category of games, and also some analyisis and summary about the datas are made in the gamesData excl file }
