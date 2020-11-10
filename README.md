@@ -28,5 +28,5 @@ All datas was extracted from the iTunes Search API
 - HAOXIANG/Lance XU  
 
 ## References
--[Link to the original dataset](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps)
--[Link to the creater - Ramanathan](https://www.kaggle.com/ramamet4)
+- [Link to the original dataset](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps)
+- [Link to the creater - Ramanathan](https://www.kaggle.com/ramamet4)
