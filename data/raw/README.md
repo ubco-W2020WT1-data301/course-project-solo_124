@@ -22,8 +22,8 @@ This data set contains over 7000 moblie applications on Apple IOS app store, and
 - **vpp_lic**(Vpp Device Based Licensing Enabled)
 
 ## original page of this data set
-[link to reference] (https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps)
+[link to reference](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps)
 
 ## Dataset provided by
-[**Ramanathan**] (https://www.kaggle.com/ramamet4)
+[**Ramanathan**](https://www.kaggle.com/ramamet4)
 Research Engineer at KIT, Karlsruhe Karlsruhe, Baden-Württemberg, Germany
