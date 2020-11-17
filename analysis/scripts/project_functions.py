@@ -92,6 +92,16 @@ def q1_answer(df):
          )
 
     return df
+
+def q1_dis_violion_plot(df):
+    sns.set_theme(font_scale = 1.2, style = 'darkgrid')
+    plt.figure(figsize = (12,8))
+    plot = sns.violinplot(data =df.loc[(df['prime_genre'] == 'Games')|(df['prime_genre'] == 'Photo & Video')|(df['prime_genre'] == 'Health & Fitness')|(df['prime_genre'] == 'Business')|(df['prime_genre'] == 'Reference')|(df['prime_genre'] == 'Catalogs')|(df['prime_genre'] == 'Productivity')|(df['prime_genre'] == 'Book')|(df['prime_genre'] == 'Music')],
+    x = 'user_rating',
+    y ='prime_genre',
+    width = 1.6)
+    
+    return plot
         
 def q1_answer_plot(df):
     genres = ['Games','Photo & Video','Health & Fitness','Productivity','Music']
