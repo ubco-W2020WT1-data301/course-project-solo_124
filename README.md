@@ -2,6 +2,9 @@
 # Group 124 - { Mobile APPs Analysis }
 What makes a five stars mobile application
 
+## Presentation Video
+- [Link to the presentation video](https://youtu.be/xD1UrXGOpAk)
+
 ## Milestones
 
 Details for Milestone are available on Canvas (left sidebar, Course Project) or [here](https://firas.moosvi.com/courses/data301/project/milestone01.html).
