@@ -12,7 +12,7 @@ This project is about finding the correlated relationship or causal relationship
 ## About the Dateset
 
 ### description and purpose
-This data set contains over 7000 moblie applications on Apple IOS app store, and all the details are stored as each field in this table such as the application price, application size, user rates, etc.This datatset analytics is a way to understand the existing strategy to drive growth and retention of future user.
+This data set contains over 7000 mobile applications on Apple IOS app store, and all the details are stored as each field in this table such as the application price, application size, user rates, etc.This datatset analytics is a way to understand the existing strategy to drive growth and retention of future user.
 
 ### creater
 This dataset is provided by [**Ramanathan**](https://www.kaggle.com/ramamet4), Research Engineer at KIT, Karlsruhe Karlsruhe, Baden-Württemberg, Germany
@@ -29,4 +29,4 @@ All datas was extracted from the iTunes Search API
 
 ## References
 - [Link to the original dataset](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps)
-- [Link to the creater - Ramanathan](https://www.kaggle.com/ramamet4)
+- [Link to the creator - Ramanathan](https://www.kaggle.com/ramamet4)
